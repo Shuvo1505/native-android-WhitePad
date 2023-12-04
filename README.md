@@ -2,10 +2,15 @@
 => A simple but powerful note storing application.
 
 -----------------------------------------------------------------------------------------
-# Features
-- Multiplayer
-- Offline
+# Provided / Built-in Features
+
+1) You can save, delete and search your notes.
+2) You can mark as favourite(star/unstar) your notes.
+3) Supported text-to-speech feature during note typing.
+4) You can see time-stamp for each and every note.
 
 -----------------------------------------------------------------------------------------
 # Screenshots
-![game-instruction](https://github.com/Shuvo1505/native-android-CrissCross/assets/75200261/ffdde4d1-fb37-4e8f-bb2f-95eb682c3f1b)  ![game-board](https://github.com/Shuvo1505/native-android-CrissCross/assets/75200261/74b535fe-8312-4ea7-b95b-fca5347434e0)  ![win](https://github.com/Shuvo1505/native-android-CrissCross/assets/75200261/df2f7606-26c8-4df1-8f21-c28ff7b05f99)  ![win-notify](https://github.com/Shuvo1505/native-android-CrissCross/assets/75200261/a6d87166-7d88-41d1-beef-3ba45b58b998)
+
+![Notes_take](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/740a52d7-0190-46d5-aa2e-10fbb5d6c67a) 
+![homepage](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/9985007e-e44c-4398-abf3-43851d6b42e5)
