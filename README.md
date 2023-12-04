@@ -12,4 +12,4 @@
 -----------------------------------------------------------------------------------------
 # Screenshots
 
-![homepage](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/90bfc820-2ebc-41ea-b064-6ca260604f8c) ![Notes_take](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/18b6a3cb-7145-450a-b492-82b1376a22dd)
+![homepage](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/90bfc820-2ebc-41ea-b064-6ca260604f8c)    ![Notes_take](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/18b6a3cb-7145-450a-b492-82b1376a22dd)
