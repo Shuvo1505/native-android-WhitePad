@@ -1,5 +1,5 @@
 # Getting Started
-=> A simple but powerful note storing application.
+=> A simple and powerful note storing application.
 
 -----------------------------------------------------------------------------------------
 # Provided / Built-in Features
