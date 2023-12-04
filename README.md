@@ -1,4 +1,4 @@
-# native-android-WhitePad
+# Getting Started
 => A simple but powerful note storing application.
 
 -----------------------------------------------------------------------------------------
@@ -12,5 +12,4 @@
 -----------------------------------------------------------------------------------------
 # Screenshots
 
-![Notes_take](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/740a52d7-0190-46d5-aa2e-10fbb5d6c67a) 
-![homepage](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/9985007e-e44c-4398-abf3-43851d6b42e5)
+![homepage](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/90bfc820-2ebc-41ea-b064-6ca260604f8c) ![Notes_take](https://github.com/Shuvo1505/native-android-WhitePad/assets/75200261/18b6a3cb-7145-450a-b492-82b1376a22dd)
